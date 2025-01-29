@@ -11,7 +11,7 @@ This is a simple **Tic-Tac-Toe** game built using **HTML, CSS, and JavaScript**.
 ✅ **Smooth animations & styling** 🎨  
 
 ## 🖥️ Live Demo
-[Play the Tic-Tac-Toe Game]()
+[Play the Tic-Tac-Toe Game](https://sujith-1608.github.io/Tic-Tac-Toe-Game/)
 
 
 ## 🛠️ Technologies Used
